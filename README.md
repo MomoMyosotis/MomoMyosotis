@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MomoMyosotis&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MomoMyosotis&layout=pie&theme=tokyonight&hide=html,css)
