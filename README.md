@@ -14,9 +14,9 @@
 ---
 
 ### 📊 Languages I Use
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MomoMyosotis&theme=github_dark" alt="Productive Time" />
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MomoMyosotis&layout=pie&theme=radical&hide=html,css&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
