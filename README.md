@@ -28,8 +28,3 @@
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MomoMyosotis&style=flat-square&color=lightgray" alt="Profile Views" />
-</p>
