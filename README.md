@@ -5,10 +5,7 @@
 
 ---
 
-### 🧠 About Me
-- 🛠️ Currently building a virtual assistant called **Eclipse**
-- 🧪 Passionate about **Bash**, **Python**, and **weirdly named variables**
-- 🔍 Trust but verify
+###  Me:
 - 🎲 the risk I took was calculated, but damn am I bad at math
 
 ---
