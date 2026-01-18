@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Myosotis </h1>
 <p align="center">
-  🎓 Uni student · 🖥️ Code whisperer · 🧠 Overthinker with style
+  🎓 Uni student
 </p>
 
 ---
