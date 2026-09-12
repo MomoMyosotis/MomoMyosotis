@@ -12,13 +12,7 @@
 
 ### 📊 Languages I Use
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MomoMyosotis&amp;layout=pie&amp;theme=dark&amp;langs_count=10&amp;stats_format=percentages"
-    alt="Top Languages"
-  />
-</p>
-
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MomoMyosotis&layout=pie&theme=dark&langs_count=10&stats_format=percentages" alt="Top Languages" /> </p>
 
 ---
 
